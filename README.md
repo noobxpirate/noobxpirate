@@ -18,7 +18,8 @@ Here are some projects I’m really proud of:
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [**File Renamer 📁**](https://github.com/noobxpirate/filerenamerps) | A **PowerShell-based file renaming tool** with an embedded **Tic-Tac-Toe game** that showcases interactive features and utilities for managing files and enjoying a classic game experience. | ![PowerShell](https://img.shields.io/badge/PowerShell-%235A5B5C?logo=powershell&logoColor=white) ![PYTHON](https://img.shields.io/badge/python-%23777BB4?logo=python&logoColor=white)
-| [**PII Detector**](https://github.com/noobxpirate/anonchat) | A **web-based anonymous chat application** that enables users to engage in conversations without revealing their identities.  | ![PYTHON](https://img.shields.io/badge/python-%23777BB4?logo=python&logoColor=white)
+| [**Crunchyroll Checker**](https://github.com/noobxpirate/crunchyroll-chk) | **A Python Based Bulk Crunchyroll Checker** This Python-based Telegram bot allows users to check Crunchyroll account credentials and categorize them as **Good**, **Premium**, **Bad**, or **Blocked**. The bot notifies admins via Telegram with detailed information on each account and provides a summary of the checking process.
+  | ![PYTHON](https://img.shields.io/badge/python-%23777BB4?logo=python&logoColor=white)
 ### Languages
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235A5B5C?logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2339C5C0?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%234479A1?logo=sqlite&logoColor=white)
