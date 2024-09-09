@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a passionate developer who enjoys exploring 
 
 I’m actively working on a few exciting projects. Here’s what’s keeping me busy:
 
-### 🔥 Current Project: [File Renamer 📁](https://github.com/noobxpirate/filerenamerps)
+### 🔥 Current Project: [PII Detector 📁](https://github.com/noobxpirate/pii-detector)
 A **PowerShell-based file renaming tool** with an embedded **Tic-Tac-Toe game** that showcases interactive features and utilities for managing files and enjoying a classic game experience.
 
 ## 🌟 Featured Projects
