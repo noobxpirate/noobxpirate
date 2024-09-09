@@ -17,7 +17,7 @@ Here are some projects I’m really proud of:
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [**File Renamer 📁**](https://github.com/noobxpirate/filerenamerps) | A **PowerShell-based file renaming tool** with an embedded **Tic-Tac-Toe game** that showcases interactive features and utilities for managing files and enjoying a classic game experience. | ![PowerShell](https://img.shields.io/badge/PowerShell-%235A5B5C?logo=powershell&logoColor=white) ![PYTHON](https://img.shields.io/badge/python-%23777BB4?logo=python&logoColor=white)
+| [**File Renamer 📁**](https://github.com/noobxpirate/filerenamerps) | A **PowerShell-based file renaming tool**  that showcases interactive features and utilities for managing files experience. | ![PowerShell](https://img.shields.io/badge/PowerShell-%235A5B5C?logo=powershell&logoColor=white) ![PYTHON](https://img.shields.io/badge/python-%23777BB4?logo=python&logoColor=white)
 | [**Crunchyroll Checker**](https://github.com/noobxpirate/crunchyroll-chk) | **A Python Based Bulk Crunchyroll Checker** This Python-based Telegram bot allows users to check Crunchyroll account credentials and categorize them as **Good**, **Premium**, **Bad**, or **Blocked**. The bot notifies admins via Telegram with detailed information on each account and provides a summary of the checking process. | ![PYTHON](https://img.shields.io/badge/python-%23777BB4?logo=python&logoColor=white)
 ### Languages
 
