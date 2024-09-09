@@ -51,8 +51,7 @@ Here are some cool stats about my GitHub activity:
 
 I occasionally write about my projects and experiences. Check out my latest posts:
 
-- [**Blog Post Title**](https://medium.com/@[YourMediumHandle]/[Post-Slug])
-- [**Another Blog Post**](https://medium.com/@[YourMediumHandle]/[Post-Slug])
+- [**Blog Post Title**](https://medium.com/@noobpirate)
 
 ## 🎯 Goals
 
